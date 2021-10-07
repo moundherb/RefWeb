@@ -1,0 +1,49 @@
+header{
+    direction: rtl;
+}
+.home{
+    flex-direction: row-reverse;
+}
+.home .content{
+    direction: rtl;
+    text-align: right;
+}
+footer .row{
+flex-direction: row-reverse !important;
+text-align: -webkit-right !important;
+}
+.cards #texte{
+    text-align: right;
+}
+.button{
+    text-align: right;
+    padding: 0px 10px 0px 0px;
+}
+#res form .input-box input{
+    padding-left: 0px;
+    padding-right: 15px;
+}
+footer .row .col ul li a{
+display: flex !important;
+flex-wrap: nowrap !important;
+flex-direction: row-reverse !important;
+justify-content: flex-start !important;
+align-items: center !important;
+}
+
+footer .row .col ul li a *{
+    margin-left: 10px !important;
+}
+
+input::placeholder{
+text-align: -webkit-right;
+}
+main{
+direction: rtl;
+}
+#aboutabout{
+    text-align: right;
+}
+#aboutpage{
+    text-align: right;
+}

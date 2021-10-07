@@ -1,0 +1,215 @@
+
+body{
+	background: #050015 !important;
+}
+
+
+main,
+.card,
+.search-resources,
+.search-wrapper,
+.search-wrapper input,
+.sidebar-menu a.active,
+.icons-resources a
+ {
+  background: #050015;
+}
+.cards,
+.filterDiv,
+.customer{
+    background: #050015;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 1);
+  color: white;
+}
+.filterDiv .resources-info a{
+  color: #FFD25B;
+}
+.sidebar .sidebar-menu ul li a:hover{
+    background: #050015;
+}
+.sidebar
+{
+    background: linear-gradient(to left,#050015 ,#0c387c);
+}
+
+header{
+    background: linear-gradient(to top,#050015 ,#0c387c);
+}
+
+.filterDiv , #card-header2 h3 , .info h4 , .user-wrapper h4{
+  color: white;
+}
+
+.sidebar li a:hover .links_name, .sidebar li a:hover i, .sidebar li a.active .links_name, .sidebar li a.active i{
+	color: white;
+}
+.sidebar li a:hover, .sidebar li a.active{
+	background: #050015;
+}
+.part-illustration img{
+    filter: drop-shadow(0 0 5px #ffd25b);
+}
+
+.card {
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 1);
+}
+
+.filterDiv{
+     box-shadow: 2px 2px 5px rgba(0, 0, 0, 1);
+}
+
+.projects .card #card-header button:hover{
+    background: #3B75BC;
+}
+
+.cards {
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 1);
+}
+
+.customers .card #card-header button{
+   background: #050015; 
+}
+
+#box form{
+    background: #050015;
+}
+#containerpc{
+    background: #050015;
+    box-shadow: 0px 3px 14px rgb(255 255 255 / 25%), 0 1px 3px rgb(255 255 255 / 12%);
+}
+input{
+    border-radius: 15px;
+    color: black;
+}
+.signinup{
+    background: #050015;
+}
+#box h1{
+  color: white;
+}
+.specialtylink a{
+    background: #0D032C;
+}
+/*----------index----------*/
+#home{
+    background:#050015;
+  }
+.content .info h3
+   
+  {
+    color: white;
+  
+  }
+.content p{
+    color: white;
+  }
+  
+.header__logo,
+.nav__name{
+    color: white;
+  }
+  
+.nav__link{
+    color: white;
+  }
+  
+.logo{
+      color:#fff;
+     
+  }
+main{
+    background:#050015 ;
+  }
+.logo i,
+.nav__social-icon
+  {
+      color:#F9db48;
+  
+  }
+.home .image img{
+    filter: drop-shadow(0 0 5px #ffd25b);
+  }
+  .mark, mark{
+    background-color: unset !important;
+  }
+  
+   /*========== section1=============*/
+#section1 h2,
+#section1 h1,
+#section1 p
+  {
+    color: white;
+  }
+#section1{
+    background: #050015;
+  }
+#section1 img{
+      filter: drop-shadow(0 0 5px #ffd25b);
+  }
+.botton1{
+    filter: drop-shadow(0 0 5px #ffd25b);
+    border: 1ps solid #fff;
+    color: white;
+  }
+  /*===================section3============*/
+#section3 .para{
+    color: #050015;
+  }
+.cards .card:before{
+    background:#050015 ;
+  }
+  #section3 .cards{
+    box-shadow :unset;
+    background: #f2f2f2;
+  }
+.more a {
+   background: #050015;
+    color:  #ffd25b;
+  
+  }
+  /*=================section4===========*/
+ .interdaction{
+    color: white;
+   }
+ .testimonial{
+    color: white;
+   }
+   .col-md-8 h2{
+       color: #fff;
+   }
+ .carousel-item  .listing-rating{
+     filter: drop-shadow(0 0 5px #ffd25b);
+   }
+ .carousel .item .img-box {
+     
+      border: 1px solid #fff;
+      
+  }
+  .row-4{
+      background: #050015 !important;
+  }
+  .carousel .testimonial{
+      color: #fff;
+  }
+  .carousel-item .overview b , .carousel-item .role{
+      color: #ffe066;
+  }
+  #aboutpage{
+      color: #fff;
+  }
+  
+  /*==========footer==============*/
+footer{
+    background: #050015;
+  }
+  
+  .custom-shape-divider-top-1630875376 .shape-fill{
+      display: none;
+  }
+
+
+  @media screen and (max-width: 768px){
+  .nav {
+    background: #050015;
+  } 
+}
